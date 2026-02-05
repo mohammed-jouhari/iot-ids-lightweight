@@ -30,3 +30,17 @@ The experiments use the **TON_IoT dataset**, which contains IoT network traffic 
 - The notebook includes preprocessing steps to prepare the dataset.  
 
 ---
+
+## Citation
+
+If you use this repository, its codebase, or the experimental pipeline in your research work, please cite the following paper:
+
+```bibtex
+@INPROCEEDINGS{11288887,
+  author={Benaddi, Hafsa and Jouhari, Mohammed and Laamech, Nouha and Motii, Anas and Ibrahimi, Khalil},
+  booktitle={2025 8th International Conference on Advanced Communication Technologies and Networking (CommNet)},
+  title={Lightweight Intrusion Detection in IoT via SHAP-Guided Feature Pruning and Knowledge-Distilled Kronecker Networks},
+  year={2025},
+  pages={1--6},
+  doi={10.1109/CommNet68224.2025.11288887}
+}
